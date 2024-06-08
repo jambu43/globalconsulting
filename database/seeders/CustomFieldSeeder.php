@@ -17,7 +17,7 @@ class CustomFieldSeeder extends Seeder
 
         $fields = [
             [
-                "name" => __("Name"),
+                "name" => __("FullName "),
                 "type" => "text",
                 "placeholder" => __("Name"),
                 "width" => "6",
